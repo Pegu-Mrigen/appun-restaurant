@@ -87,4 +87,11 @@
   .app__footer-links_logo img:first-child {
     width: 80%;
   }
+  .footer__copyright{
+    margin-bottom: -3rem;
+  }
+  .app__footer-links_contact{
+    margin: 0;
+  }
+  
 }

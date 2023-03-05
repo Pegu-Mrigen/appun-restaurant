@@ -41,4 +41,11 @@
   .app__chef-sign img {
     width: 80%;
   }
+  .app__chef-content_quote{
+    margin-top: -2rem;
+    margin-bottom: 1rem;
+  }
+  .app__chef-sign{
+    margin-top: 1rem;
+  }
 }

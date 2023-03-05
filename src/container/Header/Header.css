@@ -9,6 +9,8 @@
   text-transform: uppercase;
   line-height: 117px;
   font-size: 90px;
+  
+  
 }
 .app__header-img img {
   width: 80%;
@@ -30,6 +32,16 @@
 @media screen and (max-width: 450px) {
   .app__header-h1 {
     font-size: 50px;
-    line-height: 70px;
+    line-height: 60px;
+    
+  }
+  .p__opensans{
+    margin-top: -1rem;
+  }
+  .custom__button{
+    margin: -1rem 0;
+  }
+  .app__wrapper_info{
+    margin-top: -1rem;
   }
 }
